@@ -19,13 +19,13 @@ Achieved the highest accuracy among the three models.
 
  ## Results:
 
-The FFNN achieved an accuracy of 56.6%.
-The LSTM model improved the accuracy to 79.4%.
-The BERT-based Transformer model achieved the highest accuracy of 82.8%.
+- The FFNN achieved an accuracy of 56.6%.
+- The LSTM model improved the accuracy to 79.4%.
+- The BERT-based Transformer model achieved the highest accuracy of 82.8%.
 
 ### Files Included:
 
-Code: Python scripts for FFNN, LSTM, and Transformer models.
-Models: Saved model parameters and checkpoints.
-Results: Confusion matrices, learning curves, and performance metrics.
+- Code: Python scripts for FFNN, LSTM, and Transformer models.
+- Models: Saved model parameters and checkpoints.
+- Results: Confusion matrices, learning curves, and performance metrics.
 This project demonstrates the application of different neural network architectures in the task of fake content detection, highlighting the strengths and weaknesses of each approach. The code and results can be found in the repository.
